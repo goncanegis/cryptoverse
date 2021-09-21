@@ -1,3 +1,6 @@
+A responsive cryptocurrency app that will show top 10 cryptocurrencies on home page, the line charts of each cryptocurrency, exchange rates, and news. Built with React, Redux Toolkit, RapidAPI, and styled with Ant Design.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
